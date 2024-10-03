@@ -1,4 +1,4 @@
-ID = False
+ID = True
 CNH = False
 
 # Operador or:
